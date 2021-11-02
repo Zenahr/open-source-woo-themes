@@ -1,4 +1,4 @@
-<div class="align-center">
+<div align="center">
 A yet non-curated list of awesome WooCommerce themes!
 </div>
 
